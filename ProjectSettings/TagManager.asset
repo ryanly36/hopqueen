@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ladder
+  - water
+  - lava
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - terrain
+  - Water
+  - UI
+  - slopes
+  - ice
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background3
+    uniqueID: 3022920565
+    locked: 0
+  - name: Background2
+    uniqueID: 4160044891
+    locked: 0
+  - name: Background1
+    uniqueID: 3585327607
+    locked: 0
+  - name: Foreground
+    uniqueID: 3007006085
+    locked: 0
